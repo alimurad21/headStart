@@ -1,8 +1,6 @@
 import React from 'react';
 import { BookOpenIcon, BanknotesIcon, StarIcon, BriefcaseIcon, AcademicCapIcon, CheckCircleIcon } from '@heroicons/react/24/outline';
 
-import { Link } from 'react-router-dom';
-
 
 //Icons
 import { FaArrowRight } from 'react-icons/fa'

@@ -17,9 +17,9 @@ import brandicon from '../assets/brandlogo.png'
 import brandiconmd from '../assets/brandlogomd.png'
 
 const programs = [
-    { name: 'Bachelors', description: 'Study Bachelors in Germany', href: 'https://www.ug.headstart.co.in/', icon: AcademicCapIcon },
-    { name: 'PG Medical', description: 'Study PG Medicine and Work as a Doctor in Germany', href: 'https://www.pgmedicine.com/', icon: BuildingLibraryIcon },
-    { name: 'Work in Germany', description: 'Start your Dream Career after 12th', href: 'https://www.ws.headstart.co.in/', icon: BriefcaseIcon },
+    { name: 'Bachelors', description: 'Study Bachelors in Germany', href: '/', icon: AcademicCapIcon },
+    { name: 'PG Medical', description: 'Study PG Medicine and Work as a Doctor in Germany', href: '/', icon: BuildingLibraryIcon },
+    { name: 'Work in Germany', description: 'Start your Dream Career after 12th', href: '/', icon: BriefcaseIcon },
 ]
 const callsToAction = [
     { direct: 'Go To Programs ->', href: '/programs', icon: QueueListIcon },

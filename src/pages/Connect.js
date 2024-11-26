@@ -116,7 +116,7 @@ const Connect = () => {
                                     className="h-full rounded-md border-0 bg-transparent bg-none py-0 pl-4 pr-9 text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm"
                                 >
                                     <option>US</option>
-                                    <option>IND</option>
+                                    <option>PK</option>
                                     <option>EU</option>
                                 </select>
                                 <ChevronDownIcon
@@ -183,11 +183,11 @@ const Connect = () => {
             </form>
 
             <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-                <a href="mailto:info@headstart.co.in" className="text-primary font-semibold hover:text-gray-500 duration-300 transition-colors">info@headstart.co.in</a>
+                <a href="mailto:info@headstart.co.in" className="text-primary font-semibold hover:text-gray-500 duration-300 transition-colors">info@headstart.xxx.xx</a>
                 <p className="leading-normal my-5 text-gray-700 ">
                     <a href="https://goo.gl/maps/Rko9qVf1rBpS9qe2A" className='hover:text-gray-500 duration-300 transition-colors'>
-                        608-A, Pinnacle Business Park
-                        <br />Corporate Road, Prahladnagar, Ahmedabad
+                        headstart headquarter office in city
+                        <br />street, city, country, postal code
                     </a>
                 </p>
                 <span className="inline-flex">

@@ -24,7 +24,7 @@ const ContactUs = () => {
                         <h6 className="mb-2 font-semibold leading-5 text-gray-800">Email</h6>
                         <p className="mb-3 text-sm text-gray-700 hover:text-gray-500 hover:no-underline duration-300 transition-colors">
                             <a href="mailto:info@headstart.co.in">
-                                info@headstart.co.in
+                                info@headstart.xxx.xx
                             </a>
                         </p>
                     </div>
@@ -37,7 +37,7 @@ const ContactUs = () => {
                         <h6 className="mb-2 font-semibold leading-5 text-gray-800">Phone</h6>
                         <p className="mb-3 text-sm text-gray-700 hover:text-gray-500 hover:no-underline duration-300 transition-colors">
                             <a href="tel:+917226812550">
-                                +91 72268 12550 / <br /> +91 72268 41550
+                                +xx xxxxx xxxxx / <br /> +xx xxxxx xxxxx
                             </a>
                         </p>
                     </div>
@@ -50,7 +50,7 @@ const ContactUs = () => {
                         <h6 className="mb-2 font-semibold leading-5 text-gray-800">Address</h6>
                         <p className="mb-3 text-sm text-gray-700 hover:text-gray-500 hover:no-underline duration-300 transition-colors">
                             <a href="https://goo.gl/maps/Rko9qVf1rBpS9qe2A" target='_blank' rel="noreferrer">
-                                608-A, Pinnacle Business Park, Corporate Road, Prahladnagar, Ahmedabad
+                                head start headquarter full address with postal code
                             </a>
                         </p>
                     </div>
